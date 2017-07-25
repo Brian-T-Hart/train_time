@@ -1,0 +1,16 @@
+body {
+}
+
+#mainContainer {
+	width: 80%;
+}
+.jumbotron {
+	background-color: #337ab7;
+	color: #fff;
+	font-family: 'Cinzel', serif;
+}
+
+.panel-heading {
+	font-family: 'Cinzel', serif;
+	font-size: 20px;
+}
