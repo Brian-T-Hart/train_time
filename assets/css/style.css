@@ -8,9 +8,21 @@ body {
 	background-color: #337ab7;
 	color: #fff;
 	font-family: 'Cinzel', serif;
+	padding: 14px;
 }
 
 .panel-heading {
 	font-family: 'Cinzel', serif;
 	font-size: 20px;
+}
+
+#currentTime {
+	font-family: "ariel", times, san-serif;
+}
+tr {
+	border-bottom: 1px solid #bbb;
+}
+
+td {
+	padding: 8px;
 }
